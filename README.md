@@ -7,14 +7,14 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 
 ### 👨‍💻 Desarrollador Junior
-*Aquí sigo, pensando si debí haber estudiado otra cosa*
+*Aquí sigo, pensando si debí haber estudiado otra carrera*
 
 <br>
 
 - Estado actual: **Salvando el semestre**
-- Aprendiendo: **nuevas tecnologías y mejores prácticas(cada que tengo tiempo)**
+- Aprendiendo: **nuevas tecnologías y mejores prácticas(cada que puedo)**
 - Fan de "Si funciona, no lo toques."
-- Claude mi religion. 
+
 <!-- Mi código funciona, pero no me preguntes por qué. -->
   
 <p >
