@@ -56,12 +56,12 @@
 </p>
 
 ---
-
+<!--
 ## 🏆 Trofeos de GitHub
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=0RLAND0-AV&theme=algolia&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="trophy" />
 </p>
 
----
+-->
 - no se que mas poner.... :,v
