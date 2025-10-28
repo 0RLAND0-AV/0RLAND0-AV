@@ -6,12 +6,12 @@
 <!-- Círculos tecnológicos -->
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 
-### 👨‍💻 Desarrollador Junior
+### 👨‍💻 Desarrollador back
 *Aquí sigo, pensando si debí haber estudiado otra carrera*
 
 <br>
 
-- Estado actual: **Salvando el semestre, ojala el ultimo.**
+- Estado actual: **Salvando el semestre, el penultimo.**
 - Aprendiendo: **nuevas tecnologías y mejores prácticas(cada que puedo)**
 - Fan de "Si funciona, no lo toques."
 
