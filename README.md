@@ -5,8 +5,6 @@
 ## 🚀 Sobre mí
 🎓 ESTUDIANTE DE INGENIERÍA EN SISTEMAS
 
-✉️ Contacto: orlandoaltamirano85@gmail.com
-
 <!-- Círculos tecnológicos -->
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 
@@ -24,7 +22,7 @@
 <p >
   <img src="https://komarev.com/ghpvc/?username=0RLAND0-AV&label=Visitas%20al%20perfil&color=3b82f6&style=for-the-badge" alt="profile views" />
 </p>
-
+<!--✉️ Contacto: orlandoaltamirano85@gmail.com-->
 <br clear="right"/> 
 
 ## 🛠️ Lenguajes y Herramientas
