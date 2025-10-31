@@ -3,6 +3,10 @@
 </p> -->
 
 ## 🚀 Sobre mí
+🎓 ESTUDIANTE DE INGENIERÍA EN SISTEMAS
+
+✉️ Contacto: orlandoaltamirano85@gmail.com
+
 <!-- Círculos tecnológicos -->
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 
