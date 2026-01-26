@@ -13,7 +13,7 @@
 
 <br>
 
-- Estado actual: **Salvando el semestre, el penultimo.**
+- Situacion: **Salvando el semestre**
 - Aprendiendo: **nuevas tecnologías y mejores prácticas(cada que puedo)**
 - Fan de "Si funciona, no lo toques."
 
