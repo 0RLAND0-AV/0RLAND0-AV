@@ -4,16 +4,20 @@
 
 ## 🚀 Sobre mí
 🎓 ESTUDIANTE DE INGENIERÍA EN SISTEMAS
+<!-- Título animado -->
+<!-- <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Estudiante+de+Ing.+Sistemas;Desarrollador+Backend." alt="Typing SVG" />
+</p> 
+-->
 
 <!-- Círculos tecnológicos -->
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 
-### 👨‍💻 Desarrollador back
+### Desarrollador Backend
 *Aquí sigo, pensando si debí haber estudiado otra carrera*
 
 <br>
 
-- Situacion: **Salvando el semestre**
+- Situacion: **Chambeando**
 - Aprendiendo: **nuevas tecnologías y mejores prácticas(cada que puedo)**
 - Fan de "Si funciona, no lo toques."
 
@@ -26,27 +30,67 @@
 <br clear="right"/> 
 
 ## 🛠️ Lenguajes y Herramientas
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> -->
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/> -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="50" height="50"/>
-</p>
+Lenguajes y Herramientas
+Frontend
+<table><tr>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/><br/>HTML5
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/><br/>CSS3
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/><br/>JavaScript
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/><br/>TypeScript
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/><br/>React
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" width="45"/><br/>Ionic
+</td>
+</tr></table>
+Backend
+<table><tr>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/><br/>Python
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/><br/>Spring
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45"/><br/>Django
+</td>
+<td align="center" width="80">
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="45"/><br/>FastAPI
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/><br/>PHP
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="45"/><br/>Laravel
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/><br/>Express
+</td>
+</tr></table>
+DevOps & Herramientas
+<table><tr>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/><br/>Git
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/><br/>GitHub
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/><br/>Docker
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="45"/><br/>Vercel
+</td>
+</tr></table>
 
 ---
 
